@@ -18,12 +18,12 @@ Originally a SaitamaRobot fork, ILHAM MANSIEZZ 🎸 evolved further and was buil
 
 Can be found on telegram as [ILham Mansiezz 🎸](https://t.me/bismillahselaluadaa).
 
-The Support group can be reached out to at [CTH](https://t.me/gabutttttttttttttttttttttttttt), where you can ask for help about [KOALA 🐨](https://t.me/mixiologist), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [CTH](https://t.me/gabutttttttttttttttttttttttttt), where you can ask for help about [ILHAM MANSIEZZ](https://t.me/bismillahselaluadaa), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 News channel as at [SUPPORT CHANNEL](https://t.me/gabutttttttttttttttttttttttttt) 
 
 <p align="center">
-    <a href="https://t.me/gabutttttttttttttttttttttttttt"><img src="https://telegra.ph/file/b28a3909df2e46bab6458.jpg" width=220px></a></p>
+    <a href="https://t.me/gabutttttttttttttttttttttttttt"><img src="https://t.me/LordUserbot_Group/242106" width=220px></a></p>
 
 
 ## How to setup/deploy.
