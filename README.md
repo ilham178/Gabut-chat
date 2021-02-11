@@ -14,22 +14,22 @@
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
-Originally a SaitamaRobot fork, KOALA 🐨 evolved further and was built to be more robust. 
+Originally a SaitamaRobot fork, ILHAM MANSIEZZ 🎸 evolved further and was built to be more robust. 
 
-Can be found on telegram as [KOALA 🐨](https://t.me/mixiologist).
+Can be found on telegram as [ILham Mansiezz 🎸](https://t.me/bismillahselaluadaa).
 
-The Support group can be reached out to at [CTH](https://t.me/caritemanhidop), where you can ask for help about [KOALA 🐨](https://t.me/mixiologist), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [CTH](https://t.me/gabutttttttttttttttttttttttttt), where you can ask for help about [KOALA 🐨](https://t.me/mixiologist), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
-News channel as at [SUPPORT CHANNEL](https://t.me/caritemanhidopofficial) 
+News channel as at [SUPPORT CHANNEL](https://t.me/gabutttttttttttttttttttttttttt) 
 
 <p align="center">
-    <a href="https://telegram.dog/caritemanhidop"><img src="https://telegra.ph/file/b28a3909df2e46bab6458.jpg" width=220px></a></p>
+    <a href="https://t.me/gabutttttttttttttttttttttttttt"><img src="https://telegra.ph/file/b28a3909df2e46bab6458.jpg" width=220px></a></p>
 
 
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
- - Edit any mentions of @mixiologist to your own support chat
+ - Edit any mentions of @bismillahselaluadaa to your own support chat
  - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot [See this](https://github.com/AnimeKaizoku/SaitamaRobot/blob/shiken/SaitamaRobot/__main__.py#L25)
  - Lastly, if you are found to run this repo without the code being open sourced or the repository link not mentioned in the bot, we will push a gban for you in our network because of being in violation of the license, you are free to be a dick and not respect the open source code (we do not mind) but we will not be having you around our chats
  - This repo does not come with technical support, so DO NOT come to us asking help about deploy/console errors
@@ -45,7 +45,7 @@ Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.co
 ```
 
   <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ManusiaRakitan/Koala"><img src="https://telegra.ph/file/34fa325c222a70badb02f.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/ManusiaRakitan/Koala"><img src="https://t.me/LordUserbot_Group/242106" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 </details>  
