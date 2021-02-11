@@ -14,7 +14,7 @@
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
-Originally a SaitamaRobot fork, ILHAM MANSIEZZ 🎸 evolved further and was built to be more robust. 
+Originally a hanntuu fork, ILHAM MANSIEZZ 🎸 evolved further and was built to be more robust. 
 
 Can be found on telegram as [ILham Mansiezz 🎸](https://t.me/bismillahselaluadaa).
 
