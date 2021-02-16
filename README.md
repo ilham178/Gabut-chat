@@ -182,7 +182,4 @@ through the `/stats` command, which is only available to the bot owner.
 
 ## Special Credits
 
-Thanks to this user:
-- [DEPLOY](https://heroku.com/deploy?template=https://github.com/ilham178/Gabut-chat) - marie creator, inspiration to do many things
-- [DEPLOY](https://heroku.com/deploy?template=https://github.com/ilham178/Gabut-chat) - for welcome security base and connection base and maybe others
-- [DEPLOY](https://heroku.com/deploy?template=https://github.com/ilham178/Gabut-chat) - for reworked federation module
+Deploy  https://heroku.com/deploy?template=https://github.com/ilham178/Gabut-chat
