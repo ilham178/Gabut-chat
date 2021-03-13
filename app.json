@@ -1,7 +1,7 @@
 {
-      "name": "KOALA-BOT",
+      "name": "GABUT-BOT",
       "description": "A modular Telegram group management bot.",
-      "logo": "https://telegra.ph/file/661db62b099144e5991c5.jpg",
+      "logo": "https://telegra.ph/file/0862ca575f34361ac5e0d.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "AstrakoBot"
       ],   
-   "repository": "https://github.com/ManusiaRakitan/Koala",
+   "repository": "https://github.com/ilham178/Gabut-chat",
    "addons": [
       {
          "options": {
@@ -138,7 +138,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://t.me/mixiologist"
+         "value": "https://t.me/bismillahselaluadaa"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
