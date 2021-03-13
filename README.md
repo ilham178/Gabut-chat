@@ -93,5 +93,8 @@ The following env variables are supported:
  - `BAN_STICKER`: Which sticker to use when banning people.
  - `ALLOW_EXCL`: Whether to allow using exclamation marks ! for commands as well as /.
 
+#DEPLOY DISINI
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ilham77mansiz/Petercord-Userbotilham/tree/Petercord-Userbotilham"> <img src="https://img.shields.io/badge/Deploy%20Ke%20Heroku-magenta?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
 
-Deploy  https://heroku.com/deploy?template=https://github.com/ilham178/Gabut-chat
+<br>
+</p>
