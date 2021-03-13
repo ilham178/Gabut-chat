@@ -59,8 +59,8 @@ Dibuat khusus untuk memberantas jamet tele kampang yang meresahkan.
 Saya hanya robot tapi juga bisa sange, jangan lupa pap tt ya asu!!
 ━─━─━─━─━─━─━─━─━─━─━
 
-▪**Managed with by:** [KOALA🐨](https://t.me/mixiologist)
-▪**JOIN MY CH OFFICIAL:** [CTH](http://t.me/caritemanhidupofficial)
+▪**Managed with by:** [ILHAM MANSIEZZ](https://t.me/bismillahselaluadaa)
+▪**JOIN MY CH OFFICIAL:** [CTH](http://t.me/@gabutttttttttttttttttttttttttt)
 
 ━─━─━─━─━─━─━─━─━─━─━
 Tekan /help untuk melihat daftar fitur saya.
@@ -86,7 +86,8 @@ Dan berikut ini:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-ASTRAKOBOT_IMG = "https://i.ibb.co/9gqtY04/IMG-20210129-004109-607.jpg"
+"<a href="https://cooltext.com"><img src="https://images.cooltext.com/5512630.gif" width="292" height="49" alt="PETERCORD USERBOT" /></a>
+"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 AstrakoBot is hosted on its own server and doesn't require any donations as of now but \
@@ -216,7 +217,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="👥 CTH Grup",
-                             url=f"https://t.me/caritemanhidop"),
+                             url=f"http://t.me/@gabutttttttttttttttttttttttttt"),
                      
                          InlineKeyboardButton(
                              text="🍭 Help & Command",
@@ -225,7 +226,7 @@ def start(update: Update, context: CallbackContext):
                      [
                          InlineKeyboardButton(
                              text="🚫 Gban Logs",
-                             url="https://t.me/joinchat/SKYP-Hv8tqZ-UvYq")
+                             url="http://t.me/@petercord")
                      ]]))
     else:
         update.effective_message.reply_text(
