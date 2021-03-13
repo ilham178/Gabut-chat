@@ -55,8 +55,8 @@ PM_START_TEXT = """
 Hi {}, nama saya {}!
 Saya adalah robot yang bisa memecahkan biji peler mu. 
 Saya ada untuk membantai para parasit telegram.
-Dibuat khusus untuk memberantas jamet tele kampang yang meresahkan.
-Saya hanya robot tapi juga bisa sange, jangan lupa pap tt ya asu!!
+Dibuat khusus untuk memberantas jamet tele Petercord yang meresahkan.
+Saya hanya robot...
 ━─━─━─━─━─━─━─━─━─━─━
 
 ▪**Managed with by:** [ILHAM MANSIEZZ](https://t.me/bismillahselaluadaa)
@@ -86,8 +86,8 @@ Dan berikut ini:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-"<a href="https://cooltext.com"><img src="https://images.cooltext.com/5512630.gif" width="292" height="49" alt="PETERCORD USERBOT" /></a>
-"
+<a href="https://cooltext.com"><img src="https://images.cooltext.com/5512630.gif" width="292" height="49" alt="PETERCORD USERBOT" /></a>
+
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 AstrakoBot is hosted on its own server and doesn't require any donations as of now but \
