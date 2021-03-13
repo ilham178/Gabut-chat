@@ -243,7 +243,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="Source code",
-                                url="https://github.com/Astrako/AstrakoBot",
+                                url="https://t.me/petercord",
                             )
                         ],
                     ]
